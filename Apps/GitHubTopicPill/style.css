@@ -1,0 +1,25 @@
+:root {
+    --inital-bg: rgba(56,139,253,0.15);
+    --initial-color: #58a6ff;
+
+    --active-bg:#58a6ff;
+    --active-color: white;
+}
+
+body {
+    background-color: #0D1117;
+}
+
+#pill {
+    padding: 0.5em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    background-color: var(--inital-bg);
+    color: var(--initial-color);
+
+    border-radius: 1em;
+}
+#pill:hover{
+    background-color: var(--active-bg);
+    color: var(--active-color);
+}
