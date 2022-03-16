@@ -28,8 +28,10 @@ function Counter() {
 
 function main() {
     let [add, subtract] = Counter();
+
     let minusButton = document.getElementById('minus-button'),
-    plusButton = document.getElementById('plus-button');
+        plusButton = document.getElementById('plus-button');
+
     minusButton.addEventListener('click', subtract);
     plusButton.addEventListener('click', add);
 }
