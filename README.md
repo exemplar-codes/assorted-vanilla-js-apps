@@ -1,5 +1,5 @@
 # vanilla-js-apps
-A repository of vanilla js apps, just for fun.
+A repository of HTML + CSS + JS apps, just for fun.
 
 This is also good for making vanilla version of apps that I make using libraries and frameworks, as it helps in gauging the need/efficiency of the library/framework.
 
