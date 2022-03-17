@@ -1,0 +1,17 @@
+#play-button {
+    background-color: green;
+    color: darkslategrey;
+
+    width: 2em;
+    height: 2em;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 50%;
+
+    font-size: 2em;
+
+    margin: 1em;
+}
