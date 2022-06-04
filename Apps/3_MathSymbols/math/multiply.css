@@ -1,0 +1,15 @@
+.item {
+  display: inline-block;
+  height: 1rem;
+  background-color: black;
+  width: 10rem;
+}
+.container {
+  margin-top: 100px;
+}
+.tr {
+  transform: rotate(45deg);
+}
+.br {
+  transform: rotate(-90deg);
+}

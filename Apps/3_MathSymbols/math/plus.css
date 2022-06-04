@@ -1,0 +1,23 @@
+#plus {
+  display: grid;
+  grid-template-columns: 2rem 2rem;
+  grid-template-rows: 2rem 2rem;
+  grid-gap: 1rem;
+}
+
+.empty {
+  background-color: white;
+}
+
+.black-container {
+  display: inline-block;
+  background-color: black;
+  width: 5rem;
+}
+
+#minus {
+  display: grid;
+  grid-template-columns: 3rem 3rem;
+  grid-template-rows: 3rem 3rem;
+  grid-row-gap: 1rem;
+}

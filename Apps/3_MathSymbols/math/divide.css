@@ -1,0 +1,16 @@
+.item {
+  background-color: black;
+  margin-bottom: 2px;
+  height: 1rem;
+}
+#divide {
+  display: grid;
+  grid-template-columns: 7rem;
+  grid-row: repeat(3, 1rem);
+  grid-row-gap: 0.5rem;
+}
+.dot {
+  justify-self: center;
+  width: 1.2rem;
+  height: 1.2rem;
+}
